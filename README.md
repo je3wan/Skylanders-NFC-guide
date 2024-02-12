@@ -1,6 +1,7 @@
 # Skylanders-NFC-guide
 
 You need:
+ 
  -ACR122U NFC Reader/Writer
 
  -NFC Tags that are 13.56MHZ,Rewritable UID and 1K Storage
@@ -23,6 +24,7 @@ You need:
 
  -Color printer (optional)
  
+
  Step 1:
 
  Extract the folder with the drivers
@@ -37,6 +39,7 @@ You need:
 
  could be a bit difficult to install, look for guides online and you also need other things to install for that
 
+
 Step 2:
 
  
@@ -46,6 +49,7 @@ Step 2:
 
  Look for the Skylanders you want to make
  
+
 Step 3:
 
  Connect the NFC Reader/Writer
@@ -91,6 +95,7 @@ Step 3:
  
   Traps also work like Skylanders
   
+
 Step 4 (optional): 
 
  Extract SkylandersGUITool.zip or Skyreader.zip
@@ -105,6 +110,7 @@ Step 4 (optional):
 
  If your figure shows up it works and optional you can edit gold level and skill path in skyreader and then click on 'Portal' and then 'Write Skylander to portal'
  
+
 Step 5 (optional):
 
  Install Inkscape
