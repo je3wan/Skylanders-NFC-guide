@@ -1,4 +1,5 @@
 # Skylanders-NFC-guide
+
 You need:
  -ACR122U NFC Reader/Writer
  -NFC Tags that are 13.56MHZ,Rewritable UID and 1K Storage
