@@ -23,7 +23,8 @@ You need:
 
  -Color printer (optional)
  
-Step 1:
+ Step 1:
+
  Extract the folder with the drivers
  
  On Windows install the drivers by opening the MSI file and following the steps
@@ -37,6 +38,8 @@ Step 1:
  could be a bit difficult to install, look for guides online and you also need other things to install for that
 
 Step 2:
+
+ 
  Extract [skylandersdumps].zip
 
  Open the folder with the dumps
@@ -44,6 +47,7 @@ Step 2:
  Look for the Skylanders you want to make
  
 Step 3:
+
  Connect the NFC Reader/Writer
 
  Put an NFC Card on the reader
@@ -88,6 +92,7 @@ Step 3:
   Traps also work like Skylanders
   
 Step 4 (optional): 
+
  Extract SkylandersGUITool.zip or Skyreader.zip
 
  Open Skylanders GUI Tool.exe or Skyreader.exe
@@ -101,6 +106,7 @@ Step 4 (optional):
  If your figure shows up it works and optional you can edit gold level and skill path in skyreader and then click on 'Portal' and then 'Write Skylander to portal'
  
 Step 5 (optional):
+
  Install Inkscape
 
  Extract the Skylanders NFC Cover Pictures
