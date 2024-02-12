@@ -2,15 +2,25 @@
 
 You need:
  -ACR122U NFC Reader/Writer
+
  -NFC Tags that are 13.56MHZ,Rewritable UID and 1K Storage
+
  -MifareOneTool: https://github.com/xavave/MifareOneTool-English
+
  -Skylanders NFC DUMPS: https://shorturl.at/mswy0 (From TheVault Discord Server)
+ 
  -ACS ACR122U Driver:https://www.acs.com.hk/en/driver/3/acr122u-usb-nfc-reader/
+
  -Skylanders GUI Tool (optional):https://www.pyrofersprojects.com/blog/skylanders-gui-tool/
+ 
  -Skyreader (optional): https://github.com/hegyak/SkyEditGUI/releases/tag/Alpha-6
+
  -Skylanders Portal (optional)
+ 
  -Skylanders NFC cards cover pictures (optional):https://drive.google.com/drive/folders/1pOTIA9LpLQ5l1LigjtjOMyvrhUv9bYC9 (from spenny discord server)
+
  -Inkscape (optional):https://inkscape.org/
+
  -Color printer (optional)
  
 Step 1:
