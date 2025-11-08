@@ -1,6 +1,8 @@
 # Skylanders-NFC-guide
 **Info:** This Guide is still good but use [The Crypt](https://skylandersnfc.github.io) it has everything you need including much more stuff
 
+
+
 **You need:**
  
  -ACR122U NFC Reader/Writer
